@@ -1,16 +1,39 @@
-# truelogs
+# TrueLogs — A Privacy-Respecting Caller ID
 
-A new Flutter project.
+A lightweight, Truecaller-inspired Flutter app that shows caller information using the Truecaller API — but without the creepy tracking, silent contact uploads, or invasive analytics.
+
+> Because knowing who’s calling shouldn’t cost you your privacy.
+
+## Features
+
+* Look up phone numbers using the Truecaller API
+* Identify numbers from your call logs
+* View clean, detailed contact information
+* Sleek, modern UI built with Flutter
+* No spying, no sneaky data collection — just what you need
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download the APK from the [releases](./releases) page and install it on your device.
+No sign-ups, no fine print — just run it.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter SDK (>=3.0.0) if you want to build it yourself
+* A valid Truecaller key (you can extract this from the official app using interception techniques)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+*(Gonna add soon)*
+
+## License
+
+MIT License — because freedom matters.
+See the `LICENSE` file for details.
+
+## Credits
+
+* Built with Flutter
+* Inspired by the Truecaller app — but made with privacy in mind
+
+> Who’s calling? Now you can know — without giving up your soul (or your contacts).
