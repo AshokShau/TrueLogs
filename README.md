@@ -14,7 +14,7 @@ A lightweight, Truecaller-inspired Flutter app that shows caller information usi
 
 ## Getting Started
 
-Download the APK from the [releases](./releases) page and install it on your device.
+Download the APK from the [releases](https://github.com/AmarnathCJD/TrueLogs/releases) page and install it on your device.
 No sign-ups, no fine print — just run it.
 
 ## Requirements
@@ -28,8 +28,8 @@ No sign-ups, no fine print — just run it.
 
 ## License
 
-MIT License — because freedom matters.
-See the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENSE) — because freedom matters.
+
 
 ## Credits
 
